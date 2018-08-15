@@ -40,8 +40,8 @@ The code for this step is contained in cell [3] [4] and [5] code cells of the IP
 3-	Show the images related to the class label
 
 ![Count](./images/visualization.png)
-![ Number of Training Examples by Class](./images/visualization2.png)
 ![ Signs Calsses Images](./images/class_image.png)
+![ Number of Training Examples by Class](./images/visualization2.png)
 
 
 #### 3. Pre-process1: Grayscale
@@ -65,7 +65,7 @@ Normalizing the data to the range (-1,1)
 
 Here is an example of a traffic sign image before and after Preprocessing.
 
-![grayscale](./images/gray vs rgp.png)
+![grayscale](./images/gray-vs-rgp.png)
 
 
 #### 5. Modified LeNet Model Architecture
